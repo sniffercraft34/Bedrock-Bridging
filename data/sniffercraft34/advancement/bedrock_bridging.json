@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "sniffercraft34",
+        "description": "",
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner:{Name: \"sniffercraft34\", Properties: {textures: [{Value: \"\"}]}}}"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "global:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
