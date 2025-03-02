@@ -1,1 +1,1 @@
-scoreboard players set @a bedrock_bridging 0
+scoreboard players set @a bedrock_bridging 3

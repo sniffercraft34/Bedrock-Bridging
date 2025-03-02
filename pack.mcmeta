@@ -1,6 +1,6 @@
 {
     "pack": {
-        "pack_format": 57,
-        "description": "Adds a bedrock-like bridging functionality to Bedrock edition"
+        "pack_format": 61,
+        "description": "Adds a Bedrock-like bridging functionality to Java edition"
     }
 }
