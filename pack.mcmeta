@@ -1,6 +1,6 @@
 {
-    "pack": {
-        "pack_format": 61,
-        "description": "Adds a Bedrock-like bridging functionality to Java edition"
-    }
+  "pack": {
+    "description": "Made by sniffercraft34",
+    "pack_format": 94.1
+  }
 }
